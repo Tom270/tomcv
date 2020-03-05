@@ -1,0 +1,121 @@
+.img1{
+	margin-left: -0.55%;
+	margin-top: -0.6%;
+}
+
+html{
+	background-color: #DCDCDC;
+}
+
+.Ci{
+	font-family: 'Bebas Neue', cursive;
+	padding-top: 10%;
+	padding-left: 10%;
+	padding-bottom: 5%;
+}
+
+.mp{
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 10%;
+	padding-bottom: 5%;
+}
+
+.ml{
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 10%;
+	padding-bottom: 5%;
+}
+
+.mc{
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 10%;
+	padding-bottom: 5%;
+}
+
+.mc2{
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 10%;
+	padding-bottom: 5%;
+}
+
+.lettre{
+	font-size: 120%;
+}
+
+.bg{
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	position: absolute;
+	padding-left: 42%;
+	padding-top: 4%;
+	font-size: 250%;
+	text-shadow: 0 0 0.2em black;
+}
+
+.navi{
+	font-family: 'Bebas Neue', cursive;
+	background-color: #A9A9A9;
+	margin-left: -0.55%;
+	margin-right: -0.55%;
+	margin-top: -0.25%;
+}
+
+.nav1{
+	padding-left: 15%;
+	padding-right: 5%;
+	color: white;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.nav1:hover{
+	color: black;
+}
+
+.nav2{
+	padding-left: 5%;
+	padding-right: 5%;
+	color: white;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.nav2:hover{
+	color: black;
+}
+
+.nav3{
+	padding-left: 5%;
+	padding-right: 5%;
+	color: white;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.nav3:hover{
+	color: black;
+}
+
+.nav4{
+	padding-left: 5%;
+	padding-right: 5%;
+	color: white;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.nav4:hover{
+	color: black;
+}
+
+.nav5{
+	padding-left: 5%;
+	padding-right: 5%;
+	color: white;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.nav5:hover{
+	color: black;
+}
